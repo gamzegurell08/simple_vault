@@ -1,5 +1,10 @@
 # 🔐 Simple Vault
 
+## 📸 Preview
+
+![Simple Vault Preview] <img width="1152" height="2048" alt="WhatsApp Image 2026-07-24 at 22 21 15" src="https://github.com/user-attachments/assets/d760842a-9416-4a04-bba5-9540fcb41c08" />
+
+
 A simple and secure password manager built with Python.
 
 ## 📌 Features
