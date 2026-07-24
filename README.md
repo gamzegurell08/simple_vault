@@ -77,5 +77,51 @@ Passwords are encrypted using the **Fernet** encryption algorithm from the Crypt
 The encryption key is derived from the user's master password using the **Scrypt** key derivation function.
 
 ## 👩‍💻 Author
+## 🚀 Installation & Run
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/KULLANICI_ADIN/simple-vault.git
+```
+
+### 2. Go to the project folder
+
+```bash
+cd simple-vault
+```
+
+### 3. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Run the application
+
+```bash
+python main.py
+```
+
+If `python` does not work on your system, try:
+
+```bash
+py main.py
+```
+
+
+## 📦 Requirements
+
+- Python 3.13 or newer (64-bit recommended)
+- cryptography
+
+Install all dependencies with:
+
+```bash
+pip install -r requirements.txt
+```
+
+
+
 
 Developed by **Gamze Gürel**
